@@ -1,0 +1,6 @@
+echo "# qtm385pandaproj" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wsim3/qtm385pandaproj.git
+git push -u origin master
